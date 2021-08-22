@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdditionalLabSheet</string>
+    <string name="play">Play</string>
+    <string name="Stop">stop</string>
+    <string name="home">Welcome Home</string>
+    <string name="todo">TODO</string>
+    <string name="jhome">HOME</string>
+</resources>
